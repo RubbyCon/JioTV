@@ -20,8 +20,8 @@ http://localhost/m3u8.php?c=And_TV_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="JIO TV",Zee TV HD
 http://localhost/m3u8.php?c=Zee_TV_HD&q=800&e=junk.m3u8
 
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JIO TV",Colors HD
-http://localhost/m3u8.php?c=Colors_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="JIO TV",Js HD
+http://ip.xtremetv.eu:8000/live/jinbox/BHap1cekM4/36075.ts
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="JIO TV",Zee Anmol
 http://localhost/m3u8.php?c=Zee_Anmol&q=800&e=junk.m3u8
@@ -2227,4 +2227,5 @@ http://localhost/m3u8.php?c=Sarvamangala&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="JIO TV",AB News
 http://localhost/m3u8.php?c=AB_News&q=800&e=junk.m3u8
+
 
